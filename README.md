@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shoxip
+- 👋 Hi, I’m @Shoxip or you can call me Roudy.
 - 👀 
 
 <!---
