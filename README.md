@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shoxip or you can call me Roudy.
-- 👀 I am a programmer, currently developing a backend for mobile applications
+- 👀 I am a programmer, currently developing a frontend for mobile applications
 - 🤞  Actively developing in my field
 
 <!---
