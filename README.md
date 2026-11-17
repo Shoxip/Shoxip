@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shoxip or you can call me Roudy.
+- 👋 Hi, I’m @Shoxip or you can call me Andry.
 - 👀 I am a programmer, currently developing on frontend.
 - 🤞  Actively progressing in my field
 
